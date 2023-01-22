@@ -6,3 +6,5 @@ la Encuesta Nacional de Victimización de Empresas (ENVE) 2022 es la sexta entre
 INEGI.
 
 Comida
+
+Cambio en la nueva ramaa
